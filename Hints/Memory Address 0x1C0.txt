@@ -1,0 +1,4 @@
+"Blaster characters can grapple to other areas. Stand on the red circles and press [CIRCLE]." value is 20
+"Jar Jar can jump higher than other characters. Press [x] twice to do his super jump." value is 40
+"Astromech droids can use their probe on some electronic panels. Move up to the panel and press [circle]." value is 80
+Address 0x1C0

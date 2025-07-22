@@ -1,0 +1,2 @@
+"Blaster characters can shoot targets." value is 4
+Address 0x20B

@@ -1,0 +1,8 @@
+"Hold [SPECIAL] to use your special ability. Jedi can use The Force on glowing LEGO objects." value is 4
+"Walk up to a friendly character and press [TAG] to take control of them." value is 8
+"Hold [SPECIAL] to use your special ability. Droids can open certain doors." value is 40
+"You can regain control of your other characters at any time by moving up to them and pressing [TAG]." value is 20
+"Press [SPECIAL] to use the Force on glowing LEGO objects." value is 2
+"Press [ACTION] to deflect blaster bolts as they approach you." value is 10
+"In Free Play mode, you can cycle between different characters by pulling [TOGGLELEFT] or [TOGGLERIGHT]. Remember, each character has a different ability." value is 1
+Address 0x208

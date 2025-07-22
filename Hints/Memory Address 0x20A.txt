@@ -1,0 +1,3 @@
+"Astromech droids can use their probe on some electronic panels. Move up to the panel and press [circle]." value is 1
+"Hold CIRCLE to use your special ability. Young Anakin can crawl through certain vents." value is 8
+Address 0x20A

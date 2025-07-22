@@ -1,0 +1,6 @@
+"Astromech droids can hover for a limited time. Press and hold [x] to activate the boosters." value is 1
+"Watch out for black LEGO objects. Dark Force characters can use the Force on them." value is 2
+"Freeplay mode means you can go back and play a completed level with any character that you have unlocked!" value is 4
+"To take other characters into the levels in Freeplay, simply tag them in the Diner and go through the door of the level you wish to play." value is 8
+"Fill up the Jedi meter in each level to receive a super-kit piece. Collect all 17 to reveal a super-secret bonus!" value is 10
+Address 0x1C1

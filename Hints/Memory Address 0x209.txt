@@ -1,0 +1,4 @@
+"Jar Jar can jump higher than other characters. Press [x] twice to do his super jump." value is 80
+"Blaster characters can grapple to other areas. Stand on the red circles and press [CIRCLE]." value is 40
+"Try to tag your friend before you are gripped by the forces of the dark side." value is 2
+Address 0x209
